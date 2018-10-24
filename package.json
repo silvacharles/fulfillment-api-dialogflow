@@ -1,0 +1,15 @@
+{
+  "name": "api-dialogflow",
+  "version": "1.0.0",
+  "description": "API Webhooks para o Dialogflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Charles Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.5"
+  }
+}
